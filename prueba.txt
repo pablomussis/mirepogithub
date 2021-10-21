@@ -1,7 +1,8 @@
 
 	Esta es una prueba de GitHub con Git
 
-	Esta es una 1ra modificación con nano
+	Esta es una 1ra modificación con nano editor
 
-	Esta es una 2da modificación con nano
+	Esta es una 2da modificación con nano editor
 
+	Esta es una 3ra modificación con nano editor
